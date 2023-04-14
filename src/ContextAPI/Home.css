@@ -1,0 +1,29 @@
+.container1{
+    width: 900px;
+    height: 500px;
+    display: flex;
+    margin: auto;
+    margin-top: 80px;
+    box-shadow: 0px 0px 10px black;
+    background-color: aqua;
+
+}
+
+.Profile{
+    width: 40%;
+
+}
+
+.content{
+    width: 60%;
+    padding: 10px;
+}
+
+.btn1{
+    background-color: blue;
+    color: white;
+    height: 40px;
+    width: 120px;
+    border-radius: 10px;
+    border: none;
+}

@@ -1,0 +1,31 @@
+.nav{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    display: flex;
+}
+
+.title{
+    text-align: center;
+    width: 40%;
+}
+
+.menu{
+    text-align: center;
+    width: 60%;
+}
+a{
+    color: white;
+    margin-right: 50px;
+    text-decoration: none;
+}
+
+.btn{
+    background-color: blue;
+    width: 100px;
+    height: 35px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
